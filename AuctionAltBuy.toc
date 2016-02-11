@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: Auction|cff60ff00AltBuy|r
+## Author: EinBaum https://github.com/EinBaum
+## Version: 1.0
+## Notes: Alt-clicking items in the AH will instantly buy them. Alt-clicking your own auctions will cancel them.
+AuctionAltBuy.xml
+AuctionAltBuy.lua
